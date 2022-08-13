@@ -1,1 +1,1 @@
-## For PicGo use only.
+Picture bed.
